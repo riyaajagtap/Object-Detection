@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# datasets / captured images
+raw_frames_type_*/
+data/
+dataset/
+
+# trained models
+*.h5
+*.keras
+
+# OS junk
+.DS_Store
+Thumbs.db
